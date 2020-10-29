@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Welcome to my blog!
+title:  Period 2, Year 3, Age 21
 categories: [University, Operating Systems, Statistics, Secure Programming, Equational Programming]
 excerpt: Some thoughts about the courses I am taking in Period 2 of my final year of Uni.
 ---
