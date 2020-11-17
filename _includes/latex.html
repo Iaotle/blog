@@ -1,0 +1,12 @@
+{% if site.latex %}
+	<!-- Google Analytics -->
+	<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+	<!-- End Google Analytics -->
+	<script type="text/javascript">
+
+		var latex = '{{ site.latex }}';
+
+		console.log(latex);
+
+	</script>
+{% endif %}
