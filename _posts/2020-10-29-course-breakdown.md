@@ -25,7 +25,6 @@ This year I will be doing this course in a team of three with my Dutch friends, 
 - Assignments: The first assignment looks to be a "Secure Chat" implementation in C.
 - Lecturer: Very nice man by the name of Erik van der Kouwe. The lectures so far have been very fun to watch, especially since my casual interest in security which I satisfied by watching YouTube videos is serving me well so far. Some of the things he discussed were [Heartbleed](https://en.wikipedia.org/wiki/Heartbleed) and [Stuxnet](https://en.wikipedia.org/wiki/Stuxnet), which I encourage you to research yourself if you haven't.
 
-
 I'm working with a friend from Romania on this one. We will see how difficult it is to write secure code, but I'm quite excited for this course so far.
 
 ## Equational Programming
